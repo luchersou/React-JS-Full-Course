@@ -37,7 +37,7 @@ This repository contains React code, projects, and learning materials. It includ
 - HTML 
 - CSS styling guide
 
-<i> Notes compiled from Stack Overflow community
+<i> Notes compiled from Stack Overflow community </i>
 ## Getting Started
 
 - Clone this repository<br>
