@@ -13,7 +13,7 @@ function ToDoList(){
 
         if(newTask.trim() !== ""){
         setTasks(t => [...tasks, newTask]);
-        setTasks("");
+        setNewTask("");
         }
     }
 
