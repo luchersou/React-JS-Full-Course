@@ -32,7 +32,7 @@ function DigitalClock(){
     return(
         <div className="clock-cointainer">
             <div className="clock">
-                <span>formatTime</span>
+                <span>{formatTime}</span>
             </div>
         </div>);
 }
